@@ -1,0 +1,23 @@
+From dc488f3914e2e5013719bad7aef93fc47565a98a Mon Sep 17 00:00:00 2001
+From: joseph <josephz2314@hotmail.com>
+Date: Wed, 24 Aug 2016 11:13:58 +0800
+Subject: [PATCH] =?UTF-8?q?=E6=9B=B4=E6=96=B0?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ new1.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/new1.html b/new1.html
+index 9ad0337..6d0951a 100644
+--- a/new1.html
++++ b/new1.html
+@@ -1,2 +1,3 @@
++//这是不可名状的更新
+ //this is a new page on master
+ //this is from dev
+-- 
+2.8.1
+
